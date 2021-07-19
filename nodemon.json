@@ -1,9 +1,0 @@
-{
-    "env": {
-        "DB_USER": "Ashutosh1",
-        "DB_PASSWORD": "9996r46HiojuALsh",
-        "DB_NAME": "mern",
-        "MAPBOX_ACCESS_TOKEN": "pk.eyJ1IjoiYXNodS1kZXYiLCJhIjoiY2txdWppcXBkMDU2ZjJvbzE5amdqbW9wYSJ9.7Ie8Ufmp1nMevr4_YRLB0Q",
-        "JWT_KEY": "fake"
-    }
-}
